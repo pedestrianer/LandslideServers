@@ -1,0 +1,1 @@
+﻿2018/8/12 18:15:09	Information	select * from user where UserName='huazexi' and UserPassWord= '123'

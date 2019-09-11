@@ -1,0 +1,15 @@
+C:\Users\windows\Desktop\LandslideServers\LandslideServers\bin\Debug\LandslideServers.exe.config
+C:\Users\windows\Desktop\LandslideServers\LandslideServers\bin\Debug\LandslideServers.exe
+C:\Users\windows\Desktop\LandslideServers\LandslideServers\bin\Debug\LandslideServers.pdb
+C:\Users\windows\Desktop\LandslideServers\LandslideServers\obj\Debug\LandslideServers.csprojResolveAssemblyReference.cache
+C:\Users\windows\Desktop\LandslideServers\LandslideServers\obj\Debug\LandslideServers.exe
+C:\Users\windows\Desktop\LandslideServers\LandslideServers\obj\Debug\LandslideServers.pdb
+E:\研究生\实验室项目\山体滑坡\山体滑坡项目\服务器\最新程序\LandslideServers\LandslideServers\bin\Debug\LandslideServers.exe.config
+E:\研究生\实验室项目\山体滑坡\山体滑坡项目\服务器\最新程序\LandslideServers\LandslideServers\obj\Debug\LandslideServers.exe
+E:\研究生\实验室项目\山体滑坡\山体滑坡项目\服务器\最新程序\LandslideServers\LandslideServers\obj\Debug\LandslideServers.pdb
+E:\研究生\实验室项目\山体滑坡\山体滑坡项目\服务器\最新程序\LandslideServers\LandslideServers\bin\Debug\LandslideServers.exe
+E:\研究生\实验室项目\山体滑坡\山体滑坡项目\服务器\最新程序\LandslideServers\LandslideServers\bin\Debug\LandslideServers.pdb
+E:\研究生\实验室项目\山体滑坡\山体滑坡项目\服务器\最新程序\LandslideServers\LandslideServers\obj\Debug\LandslideServers.csprojResolveAssemblyReference.cache
+F:\研究生\实验室项目\山体滑坡\山体滑坡项目\服务器\最新程序\LandslideServers\LandslideServers\bin\Debug\LandslideServers.exe.config
+F:\研究生\实验室项目\山体滑坡\山体滑坡项目\服务器\最新程序\LandslideServers\LandslideServers\obj\Debug\LandslideServers.exe
+F:\研究生\实验室项目\山体滑坡\山体滑坡项目\服务器\最新程序\LandslideServers\LandslideServers\obj\Debug\LandslideServers.pdb
