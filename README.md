@@ -1,10 +1,2 @@
-
-# Git jiaocheng
-
- -fix-B
-
- -feathre-A
-
- -feature-C
- 
- ~Hello World hahaha
+完成端口通信模型
+C#
